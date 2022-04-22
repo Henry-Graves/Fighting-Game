@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fist
+  - Kick
+  - Special
+  - P1SpaceDetector
+  - P2SpaceDetector
+  - P1Right
+  - P1Left
+  - P2Right
+  - P2Left
+  - Player1
+  - Player2
+  - LevelOne
+  - LevelTwo
+  - Gills
+  - Morph
+  - Zlorp
+  - Maw
+  - Warrok
+  - Ely
+  - Astra
+  - P1WinScreen
+  - P2WinScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player1
+  - Player2
+  - Player2
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,3 @@
+rep "Fighter@COP4331_Fighter@cloud"
+  path "/"
+    smartbranch "/main"
